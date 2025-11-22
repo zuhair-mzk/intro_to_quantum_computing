@@ -98,6 +98,8 @@ The course bridges theoretical physics, computer science, and information theory
 - **Quantum Key Distribution**: BB84 and E91 protocols
 - **PQC vs QKD**: Comparative analysis of approaches
 
+**📦 Complete Materials**: [View presentation slides, iPad notes, and recording](https://drive.google.com/drive/folders/179TPIacUaYcYeV8Jj4zznRIGlUpDnQD3)
+
 Full details available in the [presentation folder](./presentation/).
 
 ---
@@ -127,7 +129,7 @@ Full details available in the [presentation folder](./presentation/).
 ## 🔗 Course Resources
 
 - **Course Website**: [Insert course website URL]
-- **Google Drive**: [Insert Google Drive link for course materials]
+- **Google Drive**: [Course Materials & Presentations](https://drive.google.com/drive/folders/179TPIacUaYcYeV8Jj4zznRIGlUpDnQD3)
 - **Lecture Notes**: Available in the [`/notes`](./notes/) folder
 - **Additional Resources**: Check the [`/resources`](./resources/) folder
 

@@ -412,7 +412,14 @@ where b₁, b₂, ..., bₙ are linearly independent basis vectors.
 
 ## 📎 Presentation Materials
 
+### Available Resources
 - **Slides**: `Post-Quantum Cryptography, Lattice Methods, and Quantum Key Distribution.pdf`
+- **Full Presentation Package**: [Google Drive Folder](https://drive.google.com/drive/folders/179TPIacUaYcYeV8Jj4zznRIGlUpDnQD3)
+  - 📊 Presentation slides
+  - 📝 iPad handwritten notes
+  - 🎥 Recorded presentation video
+
+### Course Information
 - **Course**: CSC D94 – Introduction to Quantum Computing & Quantum Information
 - **Instructor**: Marcelo Ponce
 - **Institution**: University of Toronto, 2025
