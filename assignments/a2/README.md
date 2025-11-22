@@ -83,8 +83,13 @@ By completing this assignment, students should be able to:
 
 ## Files
 
-- `qc_a2.pdf` - Assignment questions and problems
-- `A2_D94.pdf` - Additional assignment materials
+**Note**: Assignment solutions have been removed to prevent academic dishonesty.
+
+This README provides an overview of topics covered. For actual assignment problems, consult your course materials.
+
+## ⚠️ Academic Integrity
+
+**For current students**: Do not seek solutions from external sources. Complete assignments independently and consult with your instructor or TAs if you need help.
 
 ## Notes
 

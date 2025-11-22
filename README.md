@@ -173,6 +173,35 @@ University of Toronto, 2025
 
 ---
 
+## ⚠️ Academic Integrity & Copyright Notice
+
+**IMPORTANT**: This repository is for educational and portfolio purposes only.
+
+### Copyright
+- All original work, solutions, and materials in this repository are **© 2025 Zuhair**
+- This work is protected under copyright law and the MIT License (for code/documentation structure only)
+
+### Academic Integrity
+- **DO NOT** copy, reproduce, or submit any part of this work as your own
+- **DO NOT** distribute assignment solutions or answers
+- Plagiarism is a serious academic offense with severe consequences
+- Use this repository as a reference for structure and learning approaches only
+
+### For Students
+If you are currently taking CSC D94 or a similar course:
+- Work through problems independently
+- Consult your instructor and TAs for help
+- Academic dishonesty will result in failure and disciplinary action
+- Learn the concepts rather than copying solutions
+
+**Violating academic integrity policies may result in:**
+- Automatic failure of the course
+- Academic misconduct on your transcript
+- Suspension or expulsion from the university
+- Long-term damage to your academic and professional reputation
+
+---
+
 ## 🙏 Acknowledgments
 
 Special thanks to Professor Marcelo Ponce for an inspiring course in quantum computing and quantum information theory.
